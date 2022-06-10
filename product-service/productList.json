@@ -1,0 +1,66 @@
+[
+  {
+    "count": 4,
+    "description": "Released in 1981, the JUPITER-8 is one of the most celebrated and sought-after polysynths of all time.",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
+    "price": 27500,
+    "title": "Roland JUPITER-8"
+  },
+  {
+    "count": 6,
+    "description": "The Moog MiniMoog Model D Reissue, painstakingly built by hand in limited numbers, is an exacting recreation of the vintage Model D as used by countless artists since the early-1970s.",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a0",
+    "price": 6000,
+    "title": "Moog Minimoog"
+  },
+  {
+    "count": 7,
+    "description": "The OB-XA was Oberheim's flagship Polyphonic synthesizer for the 1980's and the bigger brother to the OB-X.",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a2",
+    "price": 11620,
+    "title": "Oberheim OB-Xa"
+  },
+  {
+    "count": 12,
+    "description": "The Roland Alpha Juno 2 is an analog polyphonic synthesizer manufactured in 1986.",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a1",
+    "price": 1100,
+    "title": "Roland Alpha Juno-2"
+  },
+  {
+    "count": 7,
+    "description": "The Raven is a mid-90's virtual analog synthesizer by the German company Quasimidi.",
+    "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a3",
+    "price": 1360,
+    "title": "Quasimidi Raven"
+  },
+  {
+    "count": 8,
+    "description": "With the Prophet-5 Sequential presents the in-house reissue of the original produced from 1978-1984.",
+    "id": "7567ec4b-b10c-48c5-9345-fc73348a80a1",
+    "price": 4800,
+    "title": "Sequential Prophet 5"
+  },
+  {
+    "count": 2,
+    "description": "he M1, released in 1988, is an epoch-making synthesizer that defined the music scene of the late 80’s and the 90s.",
+    "id": "7567ec4b-b10c-48c5-9445-fc73c48a80a2",
+    "price": 800,
+    "title": "KORG M1"
+  },
+  {
+    "count": 3,
+    "description": "The Yamaha CS-80 is without a doubt the most famous synthesizer in Yamaha's CS series and was one of the first synthesizers to put Japan on the map as a manufacturer of high-quality synthesizers.",
+    "id": "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
+    "price": 95000,
+    "title": "Yamaha CS-80"
+  },
+  {
+    "count": 3,
+    "description": "The Access VIRUS TI 2 DESKTOP Synthesizer uses innovative technology to greatly expand the VIRUS Synthesizer, resulting in an advanced stage/standalone instrument, while simultaneously extending the product capabilities with a suite of compelling studio integration features.",
+    "id": "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
+    "price": 1650,
+    "title": "Access Music Virus TI"
+  }
+]
+
